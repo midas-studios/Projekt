@@ -8,3 +8,10 @@ Jde o jednoduchou webovou aplikaci na trénink postřehu a přesnosti klikání.
 * `main` – hlavní produkční větev
 * `dev` – vývoj nových funkcí
 * `test` – testování a opravy chyb
+
+### Členové týmu:
+* Daniel Brebis
+* Dominik Klimeš
+* Vojtěch Zelenka
+* Adam Berrouche
+* Pavel Švejda
